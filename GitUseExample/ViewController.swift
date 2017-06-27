@@ -22,6 +22,7 @@ class ViewController: UIViewController {
     
     @IBAction func buttonClicked(_ sender: UIButton) {
         print("You finished")
+        print("Now I am signed into GIT on the iMac")
     }
     
 // this is a test for no reason
